@@ -6,7 +6,7 @@ Summary:	Applying STAT information from a Stylespace to a variable font
 Summary(pl.UTF-8):	Nanoszenie informacji STAT ze Stylespace na zmienny font
 Name:		python3-statmake
 Version:	0.4.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/statmake/
